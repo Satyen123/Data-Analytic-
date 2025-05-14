@@ -78,4 +78,5 @@ This project analyzes global population data from 1970 to 2022, uncovering trend
 **Satyen Sharma**
 Student & Data Enthusiast
 (mailto:satyensharma771@gmail.com)]
-🔗 \[https://www.linkedin.com/in/satyen-sharma-21069526b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUVg9pA%2BoS5GPOAng4wVpHg%3D%3D/https://github.com/Satyen123]
+🔗 \[https://www.linkedin.com/in/satyen-sharma-21069526b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BUVg9pA%2BoS5GPOAng4wVpHg%3D%3D/
+https://github.com/Satyen123]
