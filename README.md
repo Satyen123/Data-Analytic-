@@ -73,7 +73,7 @@ This project analyzes global population data from 1970 to 2022, uncovering trend
 
 ---
 
-### 📬 Contact
+###  Contact
 
 **Satyen Sharma**
 Student & Data Enthusiast
